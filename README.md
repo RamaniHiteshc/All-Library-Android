@@ -622,17 +622,14 @@ No. | Name | Description
 37 | [keyboard-visibility-event-android](https://github.com/viniciusmo/keyboard-visibility-event-android/) | A DSL to handle soft keyboard visibility change event.
 
 ## About Me
-- Github:  https://github.com/thanhtoan1196
-- Facebook: https://www.facebook.com/thanhtoan1196       
-- Email: thanhtoan1196@gmail.com
+- Github:  https://github.com/RamaniHiteshc
+- Facebook: https://www.facebook.com/profile.php?id=100006464759261      
+- Email: ramanihiteshc@gmail.com
 
 ## License
 
-    Copyright 2017 Toan Tran
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+
 
         http://www.apache.org/licenses/LICENSE-2.0
 
