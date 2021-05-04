@@ -1,7 +1,6 @@
 # All-Library-Android
 All android development using library detail
-List of Android Libraries [![Awesome](https://www.google.com/imgres?imgurl=https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id%3D136533998395188&imgrefurl=https://www.facebook.com/darkswiftinfotech/&tbnid=um88zHOz_FoISM&vet=1&docid=eyLVVv3aYZkzNM&w=658&h=298&source=sh/x/im)](https://github.com/RamaniHiteshc)
-======================
+
 A curated list of awesome Android libraries. Feel free to contrubute.
 
 ## Other Awesome List
